@@ -1,0 +1,12 @@
+p {
+  font-weight: bold;
+  font-size: 26px;
+  line-height: normal;
+  text-align: center;
+}
+
+button {
+  margin: 5px;
+  background-color: red;
+  color: white;
+}

@@ -1,0 +1,16 @@
+h1 {
+  font-size: 50px;
+  background-color: aquamarine;
+  text-align: center;
+}
+button {
+  margin-right: 12px;
+  line-height: 23px;
+}
+dd {
+  font-size: 2rem;
+  font-weight: bold;
+}
+#reset_id {
+  background-color: saddlebrown;
+}
